@@ -1,6 +1,6 @@
 # STR AI Autopilot + Growth Engine – The Complete Offer
 
-## 1. Elevator Pitch (The 10-Second Hook)
+## 1. Elevator Pitch
 
 "We help STR Property Managers add new properties and increase revenue in just 60 days by delivering the **STR AI Autopilot + Growth Engine** — one unified AI system that automates **everything** using AI, without increasing your working hours or hiring new employees."
 
